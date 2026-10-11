@@ -27,4 +27,8 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Gurudevkini/DSA/tree/master/1480-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gurudevkini/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 <!---LeetCode Topics End-->
