@@ -31,4 +31,16 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gurudevkini/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Gurudevkini/DSA/tree/master/0010-regular-expression-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Gurudevkini/DSA/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Gurudevkini/DSA/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
