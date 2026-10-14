@@ -7,6 +7,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gurudevkini/DSA/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Gurudevkini/DSA/tree/master/0027-remove-element) |
 | [1480-running-sum-of-1d-array](https://github.com/Gurudevkini/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Gurudevkini/DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -43,4 +44,8 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Gurudevkini/DSA/tree/master/0010-regular-expression-matching) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Gurudevkini/DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
