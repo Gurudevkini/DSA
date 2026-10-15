@@ -36,6 +36,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Gurudevkini/DSA/tree/master/0010-regular-expression-matching) |
+| [0344-reverse-string](https://github.com/Gurudevkini/DSA/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +49,5 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Gurudevkini/DSA/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/Gurudevkini/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
