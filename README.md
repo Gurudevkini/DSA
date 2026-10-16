@@ -8,6 +8,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 | ------- |
 | [0001-two-sum](https://github.com/Gurudevkini/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Gurudevkini/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Gurudevkini/DSA/tree/master/0088-merge-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Gurudevkini/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Gurudevkini/DSA/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -49,5 +50,10 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Gurudevkini/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Gurudevkini/DSA/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Gurudevkini/DSA/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Gurudevkini/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
