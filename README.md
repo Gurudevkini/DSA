@@ -11,6 +11,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 | [0088-merge-sorted-array](https://github.com/Gurudevkini/DSA/tree/master/0088-merge-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Gurudevkini/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Gurudevkini/DSA/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gurudevkini/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,9 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gurudevkini/DSA/tree/master/0088-merge-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gurudevkini/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Gurudevkini/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
