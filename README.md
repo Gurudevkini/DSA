@@ -25,6 +25,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Gurudevkini/DSA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Gurudevkini/DSA/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -33,12 +34,14 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Gurudevkini/DSA/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gurudevkini/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## String
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Gurudevkini/DSA/tree/master/0010-regular-expression-matching) |
 | [0344-reverse-string](https://github.com/Gurudevkini/DSA/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Gurudevkini/DSA/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
