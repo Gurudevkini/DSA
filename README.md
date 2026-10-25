@@ -9,6 +9,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 | [0001-two-sum](https://github.com/Gurudevkini/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Gurudevkini/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Gurudevkini/DSA/tree/master/0088-merge-sorted-array) |
+| [1254-number-of-closed-islands](https://github.com/Gurudevkini/DSA/tree/master/1254-number-of-closed-islands) |
 | [1480-running-sum-of-1d-array](https://github.com/Gurudevkini/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Gurudevkini/DSA/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gurudevkini/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -65,4 +66,20 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gurudevkini/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Gurudevkini/DSA/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Gurudevkini/DSA/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Gurudevkini/DSA/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Gurudevkini/DSA/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
