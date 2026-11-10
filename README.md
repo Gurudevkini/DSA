@@ -38,6 +38,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 | ------- |
 | [0412-fizz-buzz](https://github.com/Gurudevkini/DSA/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gurudevkini/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gurudevkini/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
@@ -87,4 +88,8 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Gurudevkini/DSA/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Gurudevkini/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gurudevkini/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
