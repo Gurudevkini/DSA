@@ -19,6 +19,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gurudevkini/DSA/tree/master/0001-two-sum) |
+| [0383-ransom-note](https://github.com/Gurudevkini/DSA/tree/master/0383-ransom-note) |
 ## Database
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Gurudevkini/DSA/tree/master/0010-regular-expression-matching) |
 | [0344-reverse-string](https://github.com/Gurudevkini/DSA/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Gurudevkini/DSA/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Gurudevkini/DSA/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -94,4 +96,8 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gurudevkini/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Gurudevkini/DSA/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
