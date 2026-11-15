@@ -20,6 +20,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 | ------- |
 | [0001-two-sum](https://github.com/Gurudevkini/DSA/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/Gurudevkini/DSA/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/Gurudevkini/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Database
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 | [0344-reverse-string](https://github.com/Gurudevkini/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Gurudevkini/DSA/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Gurudevkini/DSA/tree/master/0412-fizz-buzz) |
+| [1189-maximum-number-of-balloons](https://github.com/Gurudevkini/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,4 +102,5 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Gurudevkini/DSA/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/Gurudevkini/DSA/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
