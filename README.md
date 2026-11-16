@@ -32,6 +32,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 | ------- |
 | [0412-fizz-buzz](https://github.com/Gurudevkini/DSA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Gurudevkini/DSA/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Gurudevkini/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 | [0383-ransom-note](https://github.com/Gurudevkini/DSA/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/Gurudevkini/DSA/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/Gurudevkini/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Gurudevkini/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
