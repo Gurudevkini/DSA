@@ -14,6 +14,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 | [1672-richest-customer-wealth](https://github.com/Gurudevkini/DSA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Gurudevkini/DSA/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gurudevkini/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Gurudevkini/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Gurudevkini/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gurudevkini/DSA/tree/master/0088-merge-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gurudevkini/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Gurudevkini/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,4 +107,8 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 | ------- |
 | [0383-ransom-note](https://github.com/Gurudevkini/DSA/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Gurudevkini/DSA/tree/master/1189-maximum-number-of-balloons) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Gurudevkini/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
