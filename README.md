@@ -21,6 +21,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 | ------- |
 | [0001-two-sum](https://github.com/Gurudevkini/DSA/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/Gurudevkini/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Gurudevkini/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Gurudevkini/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Database
 |  |
@@ -50,6 +51,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 | [0010-regular-expression-matching](https://github.com/Gurudevkini/DSA/tree/master/0010-regular-expression-matching) |
 | [0344-reverse-string](https://github.com/Gurudevkini/DSA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Gurudevkini/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Gurudevkini/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Gurudevkini/DSA/tree/master/0412-fizz-buzz) |
 | [1189-maximum-number-of-balloons](https://github.com/Gurudevkini/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Gurudevkini/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -106,9 +108,14 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Gurudevkini/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Gurudevkini/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Gurudevkini/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Gurudevkini/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Gurudevkini/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
