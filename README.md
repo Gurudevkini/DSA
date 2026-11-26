@@ -35,6 +35,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 | [0412-fizz-buzz](https://github.com/Gurudevkini/DSA/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Gurudevkini/DSA/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Gurudevkini/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Gurudevkini/DSA/tree/master/3360-stone-removal-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Day-wise DSA Targets | Practising Data Structures and Algorithms for at least on
 | [0412-fizz-buzz](https://github.com/Gurudevkini/DSA/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Gurudevkini/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gurudevkini/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3360-stone-removal-game](https://github.com/Gurudevkini/DSA/tree/master/3360-stone-removal-game) |
 ## String
 |  |
 | ------- |
